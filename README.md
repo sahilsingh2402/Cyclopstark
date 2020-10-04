@@ -35,7 +35,7 @@ My name is Ansh Sarkar and I am an 18 year old **web developer** , **UX designer
 ## My Top 4 Role Models :scientist:
 [**Elon Musk**](https://github.com/aprilspeight) | [**Bill Gates**](https://github.com/Brawrdon) | [**Mukesh Ambani**](https://github.com/dayhaysoos) | [**Jeff Bezos**](https://github.com/ifiokjr)
 --- | --- | --- | ---
-![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![Mukesh Ambani](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![Jeff Bezos](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
+![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg)
 <img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
 
 ## Languages and Frameworks I Love :heart:
