@@ -4,13 +4,14 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Cyclopstark?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Cyclopstark/Cyclopstark?label=Views&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Cyclopstark?style=for-the-badge">
 <!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"}responsive testing-->
 
-## Welcome to my World . . .
-My name is Ansh Sarkar and I am an 18 year old **web developer** , **UX designer** , **Researcher** and a **Book Worm** . I love learning new stuff which has a future/value in the global market. I love increasing connections and looking out for every oppurtunity I can grab. I love competitive coding and spend a fair amount of time going through business case studies or research papers.
+## Welcome to my World :earth_asia: . . .
+My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
 
 
 
-## Who am I?
+## Who am I :point_down:?
 ```python
+ from Ansh_Sarkar import personal_details
  class WhoAmI:
  	name = 'Ansh Sarkar'
 	current_education = "B.Tech CSE"
