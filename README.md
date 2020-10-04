@@ -3,7 +3,7 @@
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
 
 ## My Skills
-<img src = 'https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/git.svg' height='60'/> <img src = 'https://image.flaticon.com/icons/svg/919/919851.svg' width='60'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='60'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='60'/>  <img src = 'https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg' width='53'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='60'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='60' /> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='60' /> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='60' />
+<img src = 'images/git.svg' height='60'/> <img src = 'https://image.flaticon.com/icons/svg/919/919851.svg' width='60'/> <img src = 'images/js.svg' width='60'/> <img src = 'images/flask.png' width='60'/>  <img src = 'https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg' width='53'/> <img src = 'images/cpp.svg' width='60'/> <img src='images/bootstrap.svg' width='60' /> <img src='images/c-original.svg' width='60' /> <img src='images/bootstrap.svg' width='60' />
 <!--
 Here are some ideas to get you started:
 
