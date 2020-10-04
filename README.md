@@ -3,7 +3,7 @@
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
 
 ## My Skills
-<img src = 'images/git.svg' height='60'/> <img src = 'https://image.flaticon.com/icons/svg/919/919851.svg' width='60'/> <img src = 'images/js.svg' width='60'/> <img src = 'images/flask.png' width='60'/>  <img src = 'https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg' width='53'/> <img src = 'images/cpp.svg' width='60'/> <img src='images/bootstrap.svg' width='60' /> <img src='images/c-original.svg' width='60' /> <img src='images/bootstrap.svg' width='60' />
+<img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/> <img src = 'images/cpp.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/pycharm.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/>
 <!--
 Here are some ideas to get you started:
 
