@@ -34,15 +34,15 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 y
 	
 ```
 ## My Top 4 Role Models :scientist:
-[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) | [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) | [**Mukesh Ambani**](https://en.wikipedia.org/wiki/Mukesh_Ambani) | [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos)
+[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) [**(SpaceX)**](https://en.wikipedia.org/wiki/SpaceX)| [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) [**(Microsoft)**](https://en.wikipedia.org/wiki/Microsoft)| [**Mukesh Ambani**](https://en.wikipedia.org/wiki/Mukesh_Ambani) [**(Reliance)**](https://en.wikipedia.org/wiki/Reliance_Industries)| [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos) [**(Amazon)**](https://en.wikipedia.org/wiki/Amazon_(company))
 --- | --- | --- | ---
-![Elon Musk](images/elon-musk.jpg) [**SpaceX**](https://en.wikipedia.org/wiki/SpaceX)| ![Bill Gates](images/bill-gates.jpg) [**Microsoft**](https://en.wikipedia.org/wiki/Microsoft)| ![Mukesh Ambani](images/mukesh-ambani.jpg) [**Reliance**](https://en.wikipedia.org/wiki/Reliance_Industries)| ![Jeff Bezos](images/jeff-bezos.jpg) [**Amazon**](https://en.wikipedia.org/wiki/Amazon_(company))
+![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
 <!--separator-->
 <img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
 <!-- frameworks. added api calls to compact cards -->
 
-## Languages and Frameworks I Love :heart:
+## Languages :computer: and Frameworks I Love :heart:
 <img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/> <img src = 'images/cpp.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/pycharm.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/> <img src='images/numpy.png' width='60' /> <img src='images/bash.png' width='60' /> <img src='images/pandas.png' width='60' /> <img src='images/qiskit.jpg' width='60' /> <img src='images/tkinter.jpg' width='60' />
 
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
@@ -57,12 +57,12 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 y
 - 💬 Ask me about anything , always happy to help :wink:
 - 📫 How to reach me: Please refer to the **Contact Me** section :point_down: or the **Header** :point_up:
 
-## Contributions :briefcase:
-1. If you think that any of my repositories could be better please feel free to raise an Issue or let me know via email.
-2. If you have solved any previously raised Issue please feel free to open a Pull Request (P.R.) , if it contributes some value to the repository I will surely merge it.
-3. Please do not spam.
+## Contributions :file_folder:
+1. If you think that any of my repositories :mailbox_with_mail: could be better please feel free to raise an Issue :hand: or let me know via email :email:.
+2. If you have solved :heavy_check_mark: any previously raised Issue(s) please feel free to open a Pull Request :scroll: (P.R.) , if it contributes some value to the repository I will surely merge it :link:.
+3. Please do not spam :x:.
 
-## Contact Me
+## Contact Me 
 Have a Project ? Think I can contribute ? Need some help ?
 Feel free to shoot a mail to : **anshsarkar18@gmail.**
 Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
