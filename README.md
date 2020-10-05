@@ -1,7 +1,7 @@
 # I'm [*Ansh Sarkar*](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) :sunglasses: a.k.a *Cyclopstark* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
 [![Linkedin Badge](https://img.shields.io/badge/-AnshSarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansh-sarkar-1150511b0/)](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) [![Gmail Badge](https://img.shields.io/badge/-anshsarkar18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com)
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/Cyclopstark?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Cyclopstark/Cyclopstark?label=Views&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Cyclopstark?style=for-the-badge">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Cyclopstark?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Cyclopstark/Cyclopstark?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Cyclopstark?style=for-the-badge">
 <!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"}responsive testing-->
 
 ## Welcome to my World :earth_asia: . . .
