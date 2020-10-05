@@ -34,13 +34,17 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 y
 	
 ```
 ## My Top 4 Role Models :scientist:
-[**Elon Musk**](https://github.com/aprilspeight) | [**Bill Gates**](https://github.com/Brawrdon) | [**Mukesh Ambani**](https://github.com/dayhaysoos) | [**Jeff Bezos**](https://github.com/ifiokjr)
+[**Elon Musk**](https://en.wikipedia.org/wiki/Elon_Musk) | [**Bill Gates**](https://en.wikipedia.org/wiki/Bill_Gates) | [**Mukesh Ambani**](https://en.wikipedia.org/wiki/Mukesh_Ambani) | [**Jeff Bezos**](https://en.wikipedia.org/wiki/Jeff_Bezos)
 --- | --- | --- | ---
-![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg)
+![Elon Musk](images/elon-musk.jpg) [**SpaceX**](https://en.wikipedia.org/wiki/SpaceX)| ![Bill Gates](images/bill-gates.jpg) [**Microsoft**](https://en.wikipedia.org/wiki/Microsoft)| ![Mukesh Ambani](images/mukesh-ambani.jpg) [**Reliance**](https://en.wikipedia.org/wiki/Reliance_Industries)| ![Jeff Bezos](images/jeff-bezos.jpg) [**Amazon**](https://en.wikipedia.org/wiki/Amazon_(company))
+
+<!--separator-->
 <img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
+<!-- frameworks. added api calls to compact cards -->
 
 ## Languages and Frameworks I Love :heart:
 <img src = 'images/bootstrap.svg' height='60'/> <img src = 'images/c-original.svg' height='60'/> <img src = 'images/cpp.svg' height='60'/> <img src = 'images/css.svg' height='60'/> <img src = 'images/django.svg' height='60'/> <img src = 'images/flask.png' height='60'/> <img src = 'images/git.svg' height='60'/> <img src = 'images/html.svg' height='60'/> <img src = 'images/js.svg' height='60'/> <img src = 'images/pycharm.svg' height='60'/> <img src = 'images/python.svg' height='60'/> <img src = 'images/sql.svg' height='60'/> <img src='images/numpy.png' width='60' /> <img src='images/bash.png' width='60' /> <img src='images/pandas.png' width='60' /> <img src='images/qiskit.jpg' width='60' /> <img src='images/tkinter.jpg' width='60' />
+
 <!--![](https://media.giphy.com/media/4p1JhLCYEOEJa/giphy.gif)-->
 <!--![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Cyclopstark&count_private=true)--><!--NoIcons-->
 <!--Different Theme -- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)-->
