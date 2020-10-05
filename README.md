@@ -1,17 +1,15 @@
 # I'm [*Ansh Sarkar*](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) :sunglasses: a.k.a *Cyclopstark* <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px">
 [![Linkedin Badge](https://img.shields.io/badge/-AnshSarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ansh-sarkar-1150511b0/)](https://www.linkedin.com/in/ansh-sarkar-1150511b0/) [![Gmail Badge](https://img.shields.io/badge/-anshsarkar18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com)
-
+<!--break defining , for pushing container to next line. Badges concatenate by default if coded in consecutive lines-->
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Cyclopstark?label=followers&style=for-the-badge"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Cyclopstark/Cyclopstark?label=Viewers&style=for-the-badge"> <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Cyclopstark?style=for-the-badge">
-<!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"}responsive testing-->
-
+<!--![test image size](https://i.ibb.co/5x52S7h/Coffee-bitmoji.png){:class="img-responsive"} responsive testing for image-size-->
 ## Welcome to my World :earth_asia: . . .
 My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 year old **Web Developer** :zap: , **Cyber-Sec Enthusiast** :lock:, **UX designer** :artist: , **Researcher** :microscope: and a **Book Worm** :book:. I love learning new stuff :bulb: which has a future/value in the global market. I love increasing connections :two_men_holding_hands: and looking out for every oppurtunity I can grab. I love competitive coding :trident: and spend a fair amount of time :hourglass: going through business case studies or research papers :sparkles:.
-
-
-
+<!--defining python code section-->
 ## Who am I :point_down:?
 ```python
  from Ansh_Sarkar import personal_details
+ # from Ansh_Personal import personal_ambitions
  class WhoAmI:
  	name = 'Ansh Sarkar'
 	current_education = "B.Tech CSE"
@@ -20,12 +18,14 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 y
 				'Watching Sci-Fi',
 				'Reading Sci-Fi Novels',
 				'Learning New Programming Languages or Frameworks',
-        'Making friends ...'
+        			'Making friends ...'
 			]
-	
+			
+	# return city name ...
 	def getCity():
 		retrun Siliguri_WestBengal_India_Asia_Earth()
-	
+		
+	# return public ambitions ...
 	def Ambitions():
 		Become_A_Billionaire()
 		Create_An_Ironman_Suit()
@@ -46,15 +46,22 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 y
 <!--Different Theme -- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)-->
 ![Ansh's github stats](https://github-readme-stats.vercel.app/api?username=Cyclopstark&show_icons=true)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&lang_count=10&width=window.clientWidth)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--
-Here are some ideas to get you started:
+## Current Status
+- 🔭 I’m currently working on improving :construction: my coding skills
+- 🌱 I’m currently learning Algorithmic Analysis :chart_with_upwards_trend:
+- 👯 I’m looking to collaborate with future Entrepreneurs :scientist: with cool ideas :bomb: and projects
+- 💬 Ask me about anything , always happy to help :wink:
+- 📫 How to reach me: Please refer to the **Contact Me** section :point_down: or the **Header** :point_up:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contributions :briefcase:
+1. If you think that any of my repositories could be better please feel free to raise an Issue or let me know via email.
+2. If you have solved any previously raised Issue please feel free to open a Pull Request (P.R.) , if it contributes some value to the repository I will surely merge it.
+3. Please do not spam.
+
+## Contact Me
+Have a Project ? Think I can contribute ? Need some help ?
+Feel free to shoot a mail to : **anshsarkar18@gmail.**
+Please do provide me some time to get back to you. In most cases I respond within 24-48 hrs .
+You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at in the header section of this Readme . . .
+
+:copyright: ReadMe Designed by Ansh Sarkar a.k.a Cyclopstark
