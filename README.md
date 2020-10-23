@@ -70,3 +70,6 @@ Please do provide me some time to get back to you. In most cases I respond withi
 You can also contact me via LinkedIn. To connect , click on the LinkedIn tab at in the header section of this Readme . . .
 
 :copyright: ReadMe Designed by Ansh Sarkar a.k.a Cyclopstark
+
+##
+Note : Although Responsive , this ReadMe is best viewed at 1280 x 720 resolution
