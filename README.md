@@ -38,8 +38,9 @@ My name is **Ansh Sarkar** :raising_hand: a.k.a **Cyclopstark** and I am an 18 y
 --- | --- | --- | ---
 ![Elon Musk](images/elon-musk.jpg) | ![Bill Gates](images/bill-gates.jpg) | ![Mukesh Ambani](images/mukesh-ambani.jpg) | ![Jeff Bezos](images/jeff-bezos.jpg) 
 
-<!--separator-->
-<img  align='right' src="https://i.ibb.co/5x52S7h/Coffee-bitmoji.png">
+<!--separator  https://i.ibb.co/5x52S7h/Coffee-bitmoji.png -->
+<img  align='right' src="https://github.com/Cyclopstark/Cyclopstark/blob/main/images/ninja.jpeg" height="418px" width="398px">
+
 <!-- frameworks. added api calls to compact cards -->
 
 ## Languages :computer: and Frameworks I Love :heart:
